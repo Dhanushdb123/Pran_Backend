@@ -1,0 +1,1 @@
+web: gunicorn Pran.wsgi:application --log-file -
